@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Ejercicio de introduccion a HTML en OpenBootcamp </title>
+    </head>
+    <body>
+        <!-- este es mi primer comentario de dos lineas-->
+        <!--Aprendiendo a documentar mi codigo con OpenBootcamp-->
+        <h3> lista desordenada</h3>
+        <ul>
+            <li> <a href="https://www.youtube.com/watch?v=AESYZ3kNol0"> musica para estudiar </a>   </li>
+            <li> <a href="https://www.youtube.com/watch?v=hhSTf2xF3wQ "> estudia conmigo</a>   </li>
+            <li> <a href="https://www.youtube.com/watch?v=IdjDjxNn9ws "> 4 hours study with me </a>  </li>
+        </ul>
+    </body>
+    
+</html>
